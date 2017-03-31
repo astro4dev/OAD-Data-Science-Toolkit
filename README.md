@@ -1,3 +1,3 @@
-# OAD-Data-Science-Toolkit
+# OAD Data Science Toolkit
 
 Welcome!
