@@ -16,8 +16,7 @@ If you are not familiar with Python then please consider doing one of the course
 
 Astroquery is an [astropy]{http://www.astropy.org} affiliated package that
 contains a collection of tools to access online Astronomical data. Each web
-service has its own sub-package. For example, to interface with the [SIMBAD
-website]{http://simbad.u-strasbg.fr/simbad/}, use the ``simbad`` sub-package:
+service has its own sub-package. For example, to interface with the [SIMBAD website]{http://simbad.u-strasbg.fr/simbad/}, use the ``simbad`` sub-package:
 
 ```python
 
