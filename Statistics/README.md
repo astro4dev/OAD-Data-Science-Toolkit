@@ -1,3 +1,0 @@
-# Statistics
-
-No uploads yet.
