@@ -10,9 +10,7 @@ If you are not familiar with Python then please consider doing one of the course
 * <a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy Python introduction course</a>
 
 
-==================================
-Accessing Online Astronomical Data
-==================================
+## Accessing Online Astronomical Data
 
 ### Acquiring astronomical data using Astroquery
 
