@@ -10,4 +10,5 @@ More specifically, the toolkit will provide
 2. A high quality teaching resources and assessments, for student- and self-assessment.
 3. Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
 
+## License
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
