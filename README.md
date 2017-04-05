@@ -6,6 +6,8 @@ The overall objective of this toolkit is to provide a foundation for a “common
 
 More specifically, the toolkit will provide
 
-(1) a map to existing data science resources, so that those planning data science instruction programmes in astronomy are aware of what has already been done and what can be covered (2) high quality teaching resources and assessments, for student- and self-assessment and (3) allow instructors to easily access guidance and further information on how to teach effectively and inclusively.
+1. A map to existing data science resources, so that those planning data science instruction programmes in astronomy are aware of what has already been done and what can be covered.
+2. A high quality teaching resources and assessments, for student- and self-assessment.
+3. Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
