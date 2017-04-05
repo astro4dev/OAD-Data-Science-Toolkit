@@ -14,12 +14,12 @@ If you are not familiar with Python then please consider doing one of the course
 
 ### Acquiring astronomical data using Astroquery
 
-Astroquery is an `astropy <http://www.astropy.org>`_ affiliated package that
+Astroquery is an [astropy]{http://www.astropy.org} affiliated package that
 contains a collection of tools to access online Astronomical data. Each web
-service has its own sub-package. For example, to interface with the `SIMBAD
-website <http://simbad.u-strasbg.fr/simbad/>`_, use the ``simbad`` sub-package:
+service has its own sub-package. For example, to interface with the [SIMBAD
+website]{http://simbad.u-strasbg.fr/simbad/}, use the ``simbad`` sub-package:
 
-.. code-block:: python
+```python
 
     >>> from astroquery.simbad import Simbad
     >>> theta1c = Simbad.query_object('tet01 Ori C')
@@ -27,5 +27,6 @@ website <http://simbad.u-strasbg.fr/simbad/>`_, use the ``simbad`` sub-package:
        MAIN_ID          RA           DEC      ... COO_QUAL COO_WAVELENGTH     COO_BIBCODE
     ------------- ------------- ------------- ... -------- -------------- -------------------
     * tet01 Ori C 05 35 16.4637 -05 23 22.848 ...        A              O 2007A&A...474..653V
+```
 
 To view the documentation and code head on over to the <a href="https://github.com/astropy/astroquery" target="_blank">Astroquery GitHub page</a>.
