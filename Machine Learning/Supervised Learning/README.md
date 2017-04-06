@@ -4,6 +4,14 @@ Supervised Learning is... [insert definition]
 
 ## Prerequisites
 
+
+| Option  Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+
 #### Programming
 A solid foundation in a programming language. In this toolkit the examples are done in Python.
 
@@ -27,12 +35,8 @@ The data comes from Rob Lyon at Manchester. For more information check out the [
 #### Reference:
 R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar Candidate Selection: From simple filters to a new principled real-time classification approach MNRAS, 2016. [arXiv](https://arxiv.org/pdf/1603.05166.pdf) [MNRAS](https://academic.oup.com/mnras/article-abstract/459/1/1104/2608953/Fifty-years-of-pulsar-candidate-selection-from)
 
-***
-
 ### Simple Neural Network
 
 In this notebook we build a simple feed forward neural network with Keras. We will start with a two layer neural network for simplicity.
 
 [Simple Neural Network Notebook](Simple_Neural_Network.ipynb)
-
-___
