@@ -8,9 +8,7 @@ Supervised Learning is... [insert definition]
 | Option | Description |
 | -------------| ------------- |
 | Programming   | A solid foundation in a programming language. In this toolkit the examples are done in Python.|
-| Mathematics and Statistics | Probability, Basic Linear Algebra and Calculus.|
-
----
+| Mathematics and Statistics | Probability, Basic Linear Algebra and Calculus.|  
 
 ## Teaching materials
 
