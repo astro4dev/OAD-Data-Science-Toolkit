@@ -6,19 +6,9 @@ Supervised Learning is... [insert definition]
 
 
 | Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-#### Programming
-A solid foundation in a programming language. In this toolkit the examples are done in Python.
-
-#### Mathematics and Statistics
-* Probability
-* Basic Linear Algebra
-* Calculus
+| -------------| ------------- |
+| Programming   | A solid foundation in a programming language. In this toolkit the examples are done in Python.|
+| Mathematics and Statistics | Probability, Basic Linear Algebra and Calculus.|
 
 ---
 
