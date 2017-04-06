@@ -1,5 +1,17 @@
 # Supervised Learning
 
+Supervised Learning is... [insert definition]
+
+## Prerequisites
+
+#### Programming
+A solid foundation in a programming language. In this toolkit the examples are done in Python.
+
+#### Mathematics and Statistics
+* Probability
+* Basic Linear Algebra
+* Calculus
+
 ## Predicting pulsar candidates
 
 In this notebook we will look at building machine learning models to predict Pulsar Candidates.
