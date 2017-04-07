@@ -1,11 +1,3 @@
 # Machine Learning
 
-No uploads yet.
-
-## Supervised Learning
-
-Explanation about what supervised learning is and include short introductions to the examples.
-
-## Unsupervised Learning
-
-## Reinforcement Learning
+About machine learning... Mentioning supervised learning, unsupervised learning and possibly also reinforcement learning.
