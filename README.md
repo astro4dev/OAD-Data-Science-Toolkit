@@ -12,7 +12,7 @@ More specifically, the toolkit will provide
 - A high quality teaching resources and assessments, for student- and self-assessment.
 - Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
 
-## <i class="icon-upload"></i> Help contribute
+## Help contribute
 We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help.
 
 ## About the Office of Astronomy for Development
@@ -21,9 +21,9 @@ The Office of Astronomy for Development</a> (OAD) is a global office that is man
 
 The OAD is tasked with establishing and strategically coordinating Regional Offices and Language Expertise Centres across the world, as well as initiating, supporting and funding programmes in three core areas: Astronomy for Universities and Research, Astronomy for Children and Schools, and Astronomy for the Public.
 
-<p align="center"><img src="OAD_logo.png" alt="OAD Logo" width="300"/></p>
-
 For more information on the OAD including current projects and how you can contribute please visit <a href="http://www.astro4dev.org/" target="_blank">www.astro4dev.org</a>.
+
+<p align="center"><img src="OAD_logo.png" alt="OAD Logo" width="300"/></p>
 
 ## License
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
