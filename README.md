@@ -16,7 +16,9 @@ More specifically, the toolkit will provide
 We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help.
 
 ## About the Office of Astronomy for Development
-<img src="OAD_logo.png" alt="OAD Logo" vertical-align="middle" width="200"/>
+<center>
+<img src="OAD_logo.png" alt="OAD Logo" width="300"/>
+</center>center>
 
 The Office of Astronomy for Development</a> (OAD) is a global office that is mandated to use astronomy to drive positive developmental change. This office was established through a joint partnership between the <a href="https://www.iau.org/" target="_blank">International Astronomical Union</a> (IAU) and the South African <a href="http://www.nrf.ac.za/" target="_blank">National Research Foundation</a> (NRF). It was inaugurated on 16 April 2011 at its location in the South African Astronomical Observatory. The purpose of the OAD is to implement the IAU’s Strategic plan 2010-2020 “Astronomy for Development”. This plan describes the potential of Astronomy to contribute to sustainable development. The OAD was established to mobilise the necessary human and financial resources in order to realise the field’s scientific, technological and cultural benefits to society.
 
