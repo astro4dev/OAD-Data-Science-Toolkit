@@ -6,7 +6,7 @@ The course introduces the basics of the python programming language, machine-lea
 
 ## Syllabus
 
-> **[Part 1: Introduction to Python.](Part\ 1/Exercise 1.ipynb)**
+> **Part 1: Introduction to Python.**
 >Python basics, including basic mathematical operations and control functions, writing and executing scripts, Numpy and basic matrix math. Introduction to classes, methods, and basic object-oriented programing. Basic plotting of data will also be covered. The first part continues with more advanced python and mathematics, including modeling and fitting data, (stochastic) gradient descent, and basic Bayes’ Theorem.
 
 > **Part 2: Introduction to Astrophysics.**
