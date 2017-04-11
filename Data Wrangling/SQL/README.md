@@ -6,9 +6,9 @@ SQL is a declarative computer language aimed at querying a relational database. 
 
 First we need to open up a terminal and install MySQL:
 
-'''shell
+```sh
 sudo apt-get install mysql-server
-'''
+```
 
 Choose a password (ideally a new password you've not used before)
 
@@ -18,7 +18,7 @@ Confirm the password.
 
 Now we launch MySQL
 
-'''shell
+```shell
 mysql -uroot -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
@@ -34,4 +34,4 @@ owners.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 mysql> 
-'''
+```
