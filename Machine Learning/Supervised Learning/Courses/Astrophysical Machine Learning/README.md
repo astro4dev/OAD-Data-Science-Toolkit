@@ -1,7 +1,6 @@
 # Astrophysical Machine Learning
 
-This is a directed study course written and tought by Dr. Shea Brown at the University of Iowa.
-
+This is a directed study course written and tought by [Dr. Shea Brown](https://stackedit.io/) at the [University of Iowa](https://uiowa.edu/).
 
 The course introduces the basics of the python programming language, machine-learning, and astrophysical image processing.
 
