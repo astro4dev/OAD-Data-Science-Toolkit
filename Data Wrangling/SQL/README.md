@@ -18,8 +18,8 @@ Confirm the password.
 
 Now we launch MySQL
 
-```shell
-mysql -uroot -p
+```sh
+user@machine:~$ mysql -uroot -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 43
@@ -34,4 +34,10 @@ owners.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 mysql> 
+```
+
+Let's create the database
+
+```sql
+CREATE DATABASE my_database;
 ```
