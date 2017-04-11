@@ -3,9 +3,7 @@ OAD Data Science Toolkit
 
 ![alt tag](https://img.shields.io/badge/Status-Heavy%20Development-red.svg?style=flat)
 
-[TOC]
-
-# Overall objective 
+## Overall objective 
 The overall objective of this toolkit is to provide a foundation for a “common language” between the data science and astronomy communities. The toolkit should help astronomers get a sense of the breadth of data science (as a field and in its applications) and see where their skills and knowledge fit into this wider view; and should help data scientists and those in need of data scientists (e.g. companies, NGOs)  see what astronomers can contribute.
 
 More specifically, the toolkit will provide
@@ -15,7 +13,7 @@ More specifically, the toolkit will provide
 - Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
 
 ## <i class="icon-upload"></i> Help contribute
-We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. If you have material, but don't know how to contribute your work on github, please feel free to contact [Dr. Paul A. Wilson](https://www.paulanthonywilson.com/contact/).
+We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact [Dr. Paul A. Wilson](https://www.paulanthonywilson.com/contact/) for help.
 
 ## About the Office of Astronomy for Development
 ![](images/OAD_logo.png?raw=true)
