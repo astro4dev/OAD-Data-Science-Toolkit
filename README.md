@@ -26,5 +26,5 @@ For more information on the OAD including current projects and how you can contr
 <p align="center"><img src="OAD_logo.png" alt="OAD Logo" width="300"/></p>
 
 ## License
-<a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPLv3<img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
+<a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
 Licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPLv3</a>.
