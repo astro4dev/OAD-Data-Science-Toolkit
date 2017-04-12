@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib as mpl
 
 def plot_BPT_ell(cov, means, ax, col):
     """ Plot confidences interval at 68% and 95% (1 and 2 sigmas)
@@ -206,4 +208,3 @@ def lba_whan_plt_style():
     plt.xlim(-15,15)
     plt.ylim(0.0,0.8)
     plt.legend(['retired','group4'], fontsize=10, loc=2)
-
