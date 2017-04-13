@@ -8,7 +8,9 @@ Explanation of the teaching materials yet to come.
 We will create a family tree using just CSS(3)
 The markup will be simple nested lists
 -->
+<head>
 <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <div class="tree">
 	<ul>
 		<li>
