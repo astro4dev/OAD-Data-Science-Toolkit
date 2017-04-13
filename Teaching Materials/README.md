@@ -11,6 +11,7 @@ The markup will be simple nested lists
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+#importCSS("style.css")
 <div class="tree">
 	<ul>
 		<li>
