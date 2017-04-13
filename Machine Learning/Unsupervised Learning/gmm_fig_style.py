@@ -208,4 +208,3 @@ def lda_whan_plt_style():
     plt.xlim(-15,15)
     plt.ylim(0.0,0.8)
     plt.legend(['retired','group4'], fontsize=10, loc=2)
-
