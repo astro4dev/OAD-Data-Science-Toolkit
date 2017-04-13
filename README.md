@@ -23,7 +23,7 @@ The OAD is tasked with establishing and strategically coordinating Regional Offi
 
 For more information on the OAD including current projects and how you can contribute please visit <a href="http://www.astro4dev.org/" target="_blank">www.astro4dev.org</a>.
 
-<p align="center"><img src="https://github.com/paultheastronomer/OAD-Data-Science-Toolkit/blob/master/OAD_logo.png" alt="OAD Logo" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/OAD_logo.png" alt="OAD Logo" width="300"/></p>
 
 ## License
 <p><a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a></p>
