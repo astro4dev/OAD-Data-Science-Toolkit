@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-import numpy as np
 import matplotlib as mpl
+import numpy as np
 
 def plot_BPT_ell(cov, means, ax, col):
     """ Plot confidences interval at 68% and 95% (1 and 2 sigmas)
@@ -64,7 +64,7 @@ def set_plt_style():
     plt.title('WHAN Diagram', fontsize=20)
 
 
-def lba_bpt_plt_style():
+def lda_bpt_plt_style():
 
     plt.subplot(3,4,1)
     plt.xlim(-15,15)
@@ -127,7 +127,7 @@ def lba_bpt_plt_style():
     plt.legend(['AGN','group4'], fontsize=10, loc=2)
 
 
-def lba_whan_plt_style():
+def lda_whan_plt_style():
     
     plt.subplot(4,4,1)
     plt.xlim(-15,15)
