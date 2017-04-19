@@ -10,7 +10,7 @@ We will create a family tree using just CSS(3)
 The markup will be simple nested lists
 Source: http://thecodeplayer.com/walkthrough/css3-family-tree
 -->
-<style>
+<style media="screen" type="text/css">
 /*Now the CSS*/
 * {margin: 0; padding: 0;}
 
