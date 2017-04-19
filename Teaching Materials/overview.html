@@ -92,9 +92,10 @@ function update(source) {
   nodeEnter.append("circle")
       .attr("r", 1e-6)
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      //.style("fill", function(d) { return d.level; });
 
   nodeEnter.append("text")
-      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("x", function(d) { return d.children || d._children ? -25 : 25; })
       .attr("dy", ".35em")
       .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
       .text(function(d) { return d.name; })
@@ -106,11 +107,13 @@ function update(source) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
 
   nodeUpdate.select("circle")
-      .attr("r", 4.5)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .attr("r", function(d) { return d.size; })
+      .style("fill", function(d) { return d._children ? d.color : "#fff"; })
+      .style("stroke", function(d) { return d.color; });
 
   nodeUpdate.select("text")
-      .style("fill-opacity", 1);
+      .style("fill-opacity", 1)
+      .style("fill", function(d) { return d._children ? d.color : "#000"; });      // HERE
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
@@ -131,6 +134,7 @@ function update(source) {
   // Enter any new links at the parent's previous position.
   link.enter().insert("path", "g")
       .attr("class", "link")
+      .style("stroke", function(d) { return d.target.color; })
       .attr("d", function(d) {
         var o = {x: source.x0, y: source.y0};
         return diagonal({source: o, target: o});
@@ -165,8 +169,15 @@ function click(d) {
   } else {
     d.children = d._children;
     d._children = null;
+    if (d.url) {
+    openLink(d);
+    }
   }
   update(d);
+}
+
+function openLink(d) {
+    window.open(d.url);
 }
 
 </script>
