@@ -1,0 +1,55 @@
+{
+ "name": "Data Science Toolkit",
+ "children": [
+  {
+   "name": "Teaching Materials",
+   "children": [
+    {
+     "name": "Machine Learning",
+     "children": [
+      {"name": "Supervised",
+       "children": [
+        {"name": "Courses", "size": 3179},
+        {"name": "Examples", "size": 4060,
+         "children": [
+          {"name": "Predicting Pulsar Candidates", "size": 3179},
+          {"name": "Simple Neural Network", "size": 4060}
+        ]
+       }
+     ]
+     },
+     {
+       "name": "Unsupervised",
+       "children": [
+        {"name": "Courses", "size": 3179},
+        {"name": "Examples", "size": 4060,
+         "children": [
+          {"name": "Galaxy Classification", "size": 3179}
+        ]
+       }
+      ]
+     }
+   ]
+   },
+   {
+     "name": "Data Wrangling",
+     "children": [
+      {"name": "SQL", "size": 3534}
+    ]
+   },
+   {
+     "name": "Mathematics and Statistics"
+   },
+   {
+     "name": "Programming"
+   }
+ ]
+ },
+ {
+   "name": "Assessment"
+ },
+ {
+   "name": "Summer Schools"
+ }
+]
+}
