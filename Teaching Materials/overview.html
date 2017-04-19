@@ -30,11 +30,11 @@ which is under the GNU GPL v3 licence -->
 <script>
 
 var margin = {top: 20, right: 120, bottom: 20, left: 160},
-    width = 1200 - margin.right - margin.left,
+    width = 1400 - margin.right - margin.left,
     height = 800 - margin.top - margin.bottom;
 
 var i = 0,
-    duration = 750,
+    duration = 1000,
     root;
 
 var tree = d3.layout.tree()
@@ -64,7 +64,7 @@ d3.json("flare.json", function(error, flare) {
     }
   }
 
-  root.children.forEach(collapse);
+  //root.children.forEach(collapse);
   update(root);
 });
 

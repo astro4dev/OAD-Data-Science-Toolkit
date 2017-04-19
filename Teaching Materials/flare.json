@@ -9,7 +9,11 @@
      "children": [
       {"name": "Supervised",
        "children": [
-        {"name": "Courses", "size": 3179},
+        {"name": "Courses", "size": 3179,
+         "children": [
+          {"name": "Astrophysical Machine Learning", "size": 3179}
+        ]
+        },
         {"name": "Examples", "size": 4060,
          "children": [
           {"name": "Predicting Pulsar Candidates", "size": 3179},
@@ -44,12 +48,6 @@
      "name": "Programming"
    }
  ]
- },
- {
-   "name": "Assessment"
- },
- {
-   "name": "Summer Schools"
  }
 ]
 }
