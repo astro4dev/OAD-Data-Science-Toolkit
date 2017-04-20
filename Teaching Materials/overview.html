@@ -55,6 +55,7 @@
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
       d3.json("https://rawgit.com/paultheastronomer/OAD-Data-Science-Toolkit/master/Teaching%20Materials/flare.json", function(error, flare) {
+      //d3.json("flare.json", function(error, flare) {
         if (error) throw error;
 
         root = flare;
