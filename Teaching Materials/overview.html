@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <!-- Code adapted from: https://bl.ocks.org/mbostock/4339083 
-  which is under the GNU GPL v3 licence -->
+  which is under the GNU GPL v3 licence.
+  A great tutorial can be found here:
+  http://www.d3noob.org/2014/01/tree-diagrams-in-d3js_11.html -->
   <meta charset="utf-8">
   <style>
 
+    /* make each node responsive to the mouse pointer */
     .node {
       cursor: pointer;
     }
@@ -15,7 +18,7 @@
     }
 
     .node text {
-      font: 12px sans-serif;
+      font: 14px sans-serif;
     }
 
     .link {
@@ -29,8 +32,8 @@
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script>
 
-      var margin = {top: 20, right: 20, bottom: 20, left: 160},
-      width = 1400 - margin.right - margin.left,
+      var margin = {top: 0, right: 0, bottom: 0, left: 180},
+      width = 1242 - margin.right - margin.left,
       height = 800 - margin.top - margin.bottom;
 
       var i = 0,
@@ -41,7 +44,9 @@
       .size([height, width]);
 
       var diagonal = d3.svg.diagonal()
+      // Uncomment to make the tree vertical. Two other palce needs changing too.
       .projection(function(d) { return [d.y, d.x]; });
+      //.projection(function(d) { return [d.x, d.y]; });
 
       var svg = d3.select("body").append("svg")
       .attr("width", width + margin.right + margin.left)
@@ -77,7 +82,8 @@
   links = tree.links(nodes);
 
   // Normalize for fixed-depth.
-  nodes.forEach(function(d) { d.y = d.depth * 180; });
+  // Adjust the distance between each node in the expanding axis.
+  nodes.forEach(function(d) { d.y = d.depth * 100; });
 
   // Update the nodes…
   var node = svg.selectAll("g.node")
@@ -86,7 +92,9 @@
   // Enter any new nodes at the parent's previous position.
   var nodeEnter = node.enter().append("g")
   .attr("class", "node")
+  // Uncomment to make the tree vertical. Two other palce needs changing too.
   .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+  //.attr("transform", function(d) { return "translate(" + source.x0 + "," + source.y0 + ")"; })
   .on("click", click);
 
   nodeEnter.append("circle")
@@ -101,10 +109,23 @@
       .text(function(d) { return d.name; })
       .style("fill-opacity", 1e-6);
 
+      /*
+      nodeEnter.append("text")
+      .attr("y", function(d) {
+       // Adjust text above and below nodes 
+       return d.children || d._children ? -28 : 18; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", "middle")
+      .text(function(d) { return d.name; })
+      .style("fill-opacity", 1);
+      */
+
   // Transition nodes to their new position.
   var nodeUpdate = node.transition()
   .duration(duration)
+  // Uncomment to make the tree vertical. Two other palce needs changing too.
   .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+  //.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
   nodeUpdate.select("circle")
   .attr("r", function(d) { return d.size; })
@@ -113,12 +134,13 @@
 
   nodeUpdate.select("text")
   .style("fill-opacity", 1)
-      .style("fill", function(d) { return d._children ? d.color : "#000"; });      // HERE
+  .style("fill", function(d) { return d._children ? d.color : "#000"; });      // HERE
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
   .duration(duration)
   .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
+  //.attr("transform", function(d) { return "translate(" + source.x + "," + source.y + ")"; })
   .remove();
 
   nodeExit.select("circle")
