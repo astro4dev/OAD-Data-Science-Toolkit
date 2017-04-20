@@ -33,7 +33,7 @@
     <script>
 
       var margin = {top: 0, right: 0, bottom: 0, left: 180},
-      width = 1242 - margin.right - margin.left,
+      width = 1400 - margin.right - margin.left,
       height = 800 - margin.top - margin.bottom;
 
       var i = 0,
@@ -83,7 +83,7 @@
 
   // Normalize for fixed-depth.
   // Adjust the distance between each node in the expanding axis.
-  nodes.forEach(function(d) { d.y = d.depth * 100; });
+  nodes.forEach(function(d) { d.y = d.depth * 120; });
 
   // Update the nodes…
   var node = svg.selectAll("g.node")
