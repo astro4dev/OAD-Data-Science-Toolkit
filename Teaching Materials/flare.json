@@ -2,13 +2,11 @@
  "name": "Data Science Toolkit",
  "size": 20,
  "color": "purple",
- "url":"https://github.com/astro4dev/OAD-Data-Science-Toolkit",
  "children": [
   {
    "name": "Teaching Materials",
    "size": 18,
    "color": "purple",
-   "url":"https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials",
    "children": [
     {
      "name": "Machine Learning",
@@ -43,7 +41,7 @@
         {"name": "Courses", "size": 5, "color": "#005800"},
         {"name": "Examples", "size": 5, "color": "#005800",
          "children": [
-          {"name": "Galaxy Classification", "size": 3, "color": "#005800", "url":"https://github.com/astro4dev/OAD-Data-Science-Toolkit/blob/master/Teaching%20Materials/Machine%20Learning/Unsupervised%20Learning/GMM_Python.ipynb"}
+          {"name": "Galaxy Classification", "size": 3, "color": "#005800", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/blob/master/Teaching%20Materials/Machine%20Learning/Unsupervised%20Learning/GMM_Python.ipynb"}
         ]
        }
      ]
@@ -55,7 +53,7 @@
      "size": 15,
      "color": "#357EC7",
      "children": [
-      {"name": "SQL", "size": 3, "color": "#357EC7"}
+      {"name": "SQL", "size": 3, "color": "#357EC7", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Data%20Wrangling/SQL"}
     ]
    },
    {
@@ -66,7 +64,8 @@
    {
      "name": "Programming",
      "size": 15,
-     "color": "#FFA500"
+     "color": "#FFA500",
+     "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Programming"
    }
  ]
  },
