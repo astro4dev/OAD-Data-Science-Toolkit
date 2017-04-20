@@ -18,7 +18,9 @@
     }
 
     .node text {
-      font: 14px sans-serif;
+      font-size: 16px;
+      font-family: 'Open Sans', Arial, sans-serif;
+      color: #575863;
     }
 
     .link {
@@ -135,7 +137,7 @@
 
   nodeUpdate.select("text")
   .style("fill-opacity", 1)
-  .style("fill", function(d) { return d._children ? d.color : "#000"; });      // HERE
+  .style("fill", function(d) { return d._children ? d.color : "#575863"; });      // HERE
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
