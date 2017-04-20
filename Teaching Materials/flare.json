@@ -1,0 +1,91 @@
+{
+ "name": "Data Science Toolkit",
+ "size": 20,
+ "color": "purple",
+ "children": [
+  {
+   "name": "Teaching Materials",
+   "size": 18,
+   "color": "purple",
+   "children": [
+    {
+     "name": "Machine Learning",
+     "size": 15,
+     "color": "green",
+     "children": [
+      {"name": "Supervised",
+        "size": 10,
+        "color": "green",
+        "children": [
+          {"name": "Courses",
+           "size": 5,
+           "color": "green",
+           "children": [
+            {"name": "Astrophysical Machine Learning", "size": 3, "color": "green", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Machine%20Learning/Supervised%20Learning/Courses/Astrophysical%20Machine%20Learning"}
+          ]
+         },
+         {"name": "Examples", "size": 5,
+           "color": "green",
+           "children": [
+            {"name": "Predicting Pulsar Candidates", "size": 3, "color": "green", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/blob/master/Teaching%20Materials/Machine%20Learning/Supervised%20Learning/Examples/Predicting_Pulsar_Candidates.ipynb"},
+            {"name": "Simple Neural Network", "size": 3, "color": "green", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/blob/master/Teaching%20Materials/Machine%20Learning/Supervised%20Learning/Examples/Simple_Neural_Network.ipynb"}
+          ]
+         }
+       ]
+      },
+      {
+       "name": "Unsupervised",
+       "size": 10,
+       "color": "#005800",
+       "children": [
+        {"name": "Courses", "size": 5, "color": "#005800"},
+        {"name": "Examples", "size": 5, "color": "#005800",
+         "children": [
+          {"name": "Galaxy Classification", "size": 3, "color": "#005800", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/blob/master/Teaching%20Materials/Machine%20Learning/Unsupervised%20Learning/GMM_Python.ipynb"}
+        ]
+       }
+     ]
+     }
+   ]
+   },
+   {
+     "name": "Data Wrangling",
+     "size": 15,
+     "color": "#357EC7",
+     "children": [
+      {"name": "SQL", "size": 3, "color": "#357EC7", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Data%20Wrangling/SQL"}
+    ]
+   },
+   {
+     "name": "Mathematics and Statistics",
+     "size": 15,
+     "color": "red"
+   },
+   {
+     "name": "Programming",
+     "size": 15,
+     "color": "#FFA500",
+           "children": [
+            {"name": "Python", "size": 3, "color": "#FFA500", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Programming/Python"},
+            {"name": "R", "size": 3, "color": "#FFA500", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Programming/R"}
+          ]
+   }
+ ]
+ },
+ {
+   "name": "Curriculum mapping",
+   "size": 18,
+   "color": "purple"
+ },
+ {
+   "name": "Assessments",
+   "size": 18,
+   "color": "purple"
+ },
+ {
+   "name": "Supplementary Resources",
+   "size": 18,
+   "color": "purple"
+ }
+]
+}
