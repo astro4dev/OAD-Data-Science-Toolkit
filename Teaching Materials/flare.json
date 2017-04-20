@@ -64,22 +64,26 @@
    {
      "name": "Programming",
      "size": 15,
-     "color": "#FFA500"
+     "color": "#FFA500",
+           "children": [
+            {"name": "Python", "size": 3, "color": "#FFA500", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Programming/Python"},
+            {"name": "R", "size": 3, "color": "#FFA500", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Programming/R"}
+          ]
    }
  ]
  },
  {
-   "name": "",
+   "name": "Curriculum mapping",
    "size": 18,
    "color": "purple"
  },
  {
-   "name": "",
+   "name": "Assessments",
    "size": 18,
    "color": "purple"
  },
  {
-   "name": "",
+   "name": "Supplementary Resources",
    "size": 18,
    "color": "purple"
  }
