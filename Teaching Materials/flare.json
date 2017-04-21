@@ -52,9 +52,18 @@
      "name": "Data Wrangling",
      "size": 15,
      "color": "#357EC7",
-     "children": [
-      {"name": "SQL", "size": 3, "color": "#357EC7", "url": "https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Data%20Wrangling/SQL"}
-    ]
+       "children": [
+        {"name": "Courses", "size": 10, "color": "#357EC7",
+         "children": [
+          {"name": "An Introduction to SQL", "size": 3, "color": "#357EC7", "url": "https://github.com/paultheastronomer/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Data%20Wrangling/Databases/SQL"}
+        ]
+        },
+        {"name": "Examples", "size": 10, "color": "#357EC7",
+         "children": [
+          {"name": "The Brown Dwarf Database", "size": 3, "color": "#357EC7", "url": ""}
+        ]
+       }
+     ]
    },
    {
      "name": "Mathematics and Statistics",
