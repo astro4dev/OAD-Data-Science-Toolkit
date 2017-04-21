@@ -1,4 +1,4 @@
-# SQL
+# An Introduction to SQL
 
 Below is a short and very basic introduction on how to create and populate a SQL database.
 
