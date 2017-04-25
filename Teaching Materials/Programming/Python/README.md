@@ -11,7 +11,7 @@ If you are not familiar with Python then please consider doing one of the course
 
 ## Astropy
 
-![Astropy Logo](astropy_banner.svg)
+![Astropy Logo](astropy_banner.svg?raw=true)
 
 Astropy is a community-driven package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
 
