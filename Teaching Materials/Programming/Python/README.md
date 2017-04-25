@@ -9,15 +9,17 @@ If you are not familiar with Python then please consider doing one of the course
 * <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_blank">Intro to Python for Data Science</a>
 * <a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy Python introduction course</a>
 
+## Practical Python for Astronomers
+
+[Practical Python for Astronomers](https://python4astronomers.github.io/) is a series of hands-on workshops to explore the Python language and the powerful analysis tools it provides. The emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research.
+
 ## Astropy
 
 ![Astropy Logo](astropy_banner.jpg?raw=true)
 
-Astropy is a community-driven package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
+Astropy is a community-driven package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python. To learn more head on over to the [astropy website](http://www.astropy.org/).
 
-## Accessing Online Astronomical Data
-
-### Acquiring astronomical data using Astroquery
+## Astroquery
 
 Astroquery is an [astropy](http://www.astropy.org) affiliated package that
 contains a collection of tools to access online Astronomical data. Each web
@@ -34,3 +36,7 @@ service has its own sub-package. For example, to interface with the [SIMBAD webs
 ```
 
 To view the documentation and code head on over to the <a href="https://github.com/astropy/astroquery" target="_blank">Astroquery GitHub page</a>.
+
+## AstroML: Machine Learning code for Astronomy
+
+AstroML is a Python module for machine learning and data mining built on numpy, scipy, scikit-learn, and matplotlib, and distributed under the 3-Clause BSD license. It contains a growing library of statistical and machine learning routines for analyzing astronomical data in python, loaders for several open astronomical datasets, and a large suite of examples of analyzing and visualizing astronomical datasets. To learn more visit the [astroML website](https://pypi.python.org/pypi/astroML).
