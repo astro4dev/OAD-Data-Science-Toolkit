@@ -9,6 +9,11 @@ If you are not familiar with Python then please consider doing one of the course
 * <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_blank">Intro to Python for Data Science</a>
 * <a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy Python introduction course</a>
 
+## Astropy
+
+![Astropy Logo](astropy_banner.svg)
+
+Astropy is a community-driven package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
 
 ## Accessing Online Astronomical Data
 
