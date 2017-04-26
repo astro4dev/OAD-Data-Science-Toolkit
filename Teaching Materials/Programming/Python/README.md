@@ -25,7 +25,7 @@ Below are a list of books which you may find useful whilst learning to program i
   <tr>
     <td><a href="http://greenteapress.com/wp/think-python/" target="_blank"><img src="http://greenteapress.com/thinkpython/think_python_comp2.medium.png" alt="Think Python" width="200"/></a></td>
     <td><b>Think Python</b><br>Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
-	<br>The book is available for download <a href="http://greenteapress.com/wp/think-python/ target="_blank">here</a>.
+	<br>The book is available for download <a href="http://greenteapress.com/wp/think-python/"" target="_blank">here</a>.
     </td>
   </tr>
 </table> 
