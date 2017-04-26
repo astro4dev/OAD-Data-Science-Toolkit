@@ -2,6 +2,8 @@
 
 ## Books 
 
+Below are a list of books which you may find useful whilst learning valuable data science skills. They are freely accessible, but make sure you adhere to the licences set forth by the autors. If there are books missing that you would like to add, then fork this repository, add the book and then create a pull request.
+
  <table style="width:100%">
   <tr>
     <th>Book</th>
