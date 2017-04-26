@@ -3,7 +3,7 @@ OAD Data Science Toolkit
 
 <img src="https://img.shields.io/badge/Status-Heavy%20Development-red.svg?style=flat"/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/DST_logo_250px.png" alt="DST Logo" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/DST_logo_250px.png" alt="DST Logo"/></p>
 
 ## Overall objective 
 The overall objective of this toolkit is to provide a foundation for a “common language” between the data science and astronomy communities. The toolkit should help astronomers get a sense of the breadth of data science (as a field and in its applications) and see where their skills and knowledge fit into this wider view; and should help data scientists and those in need of data scientists (e.g. companies, NGOs)  see what astronomers can contribute.
