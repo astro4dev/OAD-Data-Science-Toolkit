@@ -2,7 +2,7 @@
 
 
 ## Books 
-An Introduction to Statistical Learning
+
  <table style="width:100%">
   <tr>
     <th>Book</th>
