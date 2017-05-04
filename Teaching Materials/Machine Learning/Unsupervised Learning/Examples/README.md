@@ -8,4 +8,4 @@ The process of classifying objects plays a crucial role in science. By grouping 
 
 In this notebook we introduce the Gaussian Mixture Model (GMM) analysis done in [Souza et al. 2017](https://arxiv.org/pdf/1703.07607.pdf) to classify galaxies using the python scikit-learn library.
 
-[Gaussian Mixture Model for Unsupervised Galaxy Classification](GMM_Python.ipynb)
+[Gaussian Mixture Model for Unsupervised Galaxy Classification](GMM/GMM_Python.ipynb)
