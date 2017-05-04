@@ -22,3 +22,5 @@ Below are a list of books which you may find useful whilst learning to program i
     </td>
   </tr>
 </table> 
+
+A long list of freely accissible R programming books can be found <a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#r" target="_blank">here</a>.
