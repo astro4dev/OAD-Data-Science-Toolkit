@@ -30,6 +30,7 @@ Below are a list of books which you may find useful whilst learning to program i
   </tr>
 </table> 
 
+A long list of freely accissible Python programming books can be found <a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python" target="_blank">here</a>.
 
 ## Astronomy based Python packages
 
