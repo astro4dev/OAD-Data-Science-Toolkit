@@ -1,5 +1,18 @@
 # Mathematics and Statistics
 
+## Online Courses
+
+### Linear Algebra
+
+#### MIT's 18.06SC Linear Algebra
+This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. Visit the course page <a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/" target="_blank">here</a>.
+
+### Probability and Statistics
+
+#### MIT's 18.05 Introduction to Probability and Statistics
+This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression. Visit the course page <a href="https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/" target="_blank">here</a>.
+
+
 ## Books 
 
 Below are a list of books which you may find useful whilst learning valuable data science skills. They are freely accessible, but make sure you adhere to the licences set forth by the autors. If there are books missing that you would like to add, then fork this repository, add the book and then create a pull request.
