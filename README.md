@@ -3,7 +3,7 @@ OAD Data Science Toolkit
 
 <img src="https://img.shields.io/badge/Status-Heavy%20Development-red.svg?style=flat"/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/DST_logo_250px.png" alt="DST Logo"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/DST_logo_250px.png" alt="DST Logo"/></p>
 
 ## Overall objective 
 The overall objective of this toolkit is to provide a foundation for a “common language” between the data science and astronomy communities. The toolkit should help astronomers get a sense of the breadth of data science (as a field and in its applications) and see where their skills and knowledge fit into this wider view; and should help data scientists and those in need of data scientists (e.g. companies, NGOs)  see what astronomers can contribute.
@@ -13,6 +13,8 @@ More specifically, the toolkit will provide
 - A map to existing data science resources, so that those planning data science instruction programmes in astronomy are aware of what has already been done and what can be covered.
 - A high quality teaching resources and assessments, for student- and self-assessment.
 - Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
+
+<center><font size="8">[Get Started](Teaching\ Materials/README.md)</font></center>
 
 ## Help contribute
 We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help.
@@ -38,7 +40,7 @@ The OAD is tasked with establishing and strategically coordinating Regional Offi
 
 For more information on the OAD including current projects and how you can contribute please visit <a href="http://www.astro4dev.org/" target="_blank">www.astro4dev.org</a>.
 
-<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/OAD_logo.png" alt="OAD Logo" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/OAD_logo.png" alt="OAD Logo" width="300"/></p>
 
 ## License
 <p><a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a></p>
