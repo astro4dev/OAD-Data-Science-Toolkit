@@ -20,6 +20,8 @@ We are looking for contributors who are willing to share their teaching material
 ## Contributors to the github repository
 
 - <a href="https://www.paulanthonywilson.com/" target="_blank">Dr. Paul A. Wilson</a>, <a href="http://www.astro4dev.org/" target="_blank">OAD, SA</a>
+- <a href="vanessa.saao.ac.za" target="_blank">Dr. Vanessa McBride</a>, <a href="http://www.astro4dev.org/" target="_blank">OAD, SA</a>
+- <a href="https://github.com/ArunAniyan" target="_blank">Dr. Arun Aniyan</a>, <a href="http://www.ska.ac.za/" target="_blank">SKA South Africa</a>
 - <a href="http://webusers.astro.umn.edu/%7Ebrown/" target="_blank">Dr. Shea Brown</a>, <a href="https://uiowa.edu/" target="_blank">University of Iowa, USA</a>
 - <a href="https://github.com/sfebruary" target="_blank">Dr. Sean February</a>, <a href="https://www.chpc.ac.za/" target="_blank">CHPC, SA</a>
 - <a href="https://github.com/pylablanche" target="_blank">Dr. Pierre-Yves Lablanche</a>, <a href="https://www.aims.ac.za/" target="_blank">AIMS, SA</a>
