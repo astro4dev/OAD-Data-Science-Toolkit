@@ -14,7 +14,7 @@ More specifically, the toolkit will provide
 - A high quality teaching resources and assessments, for student- and self-assessment.
 - Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
 
-<center><font size="8">[Get Started](Teaching\ Materials/README.md)</font></center>
+<center><a href="https://github.com/paultheastronomer/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials"><font size="8">Get Started</font></a></center>
 
 ## Help contribute
 We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help.
