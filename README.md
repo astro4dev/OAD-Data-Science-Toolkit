@@ -2,8 +2,8 @@ OAD Data Science Toolkit
 ===================
 
 <img src="https://img.shields.io/badge/Status-Heavy%20Development-red.svg?style=flat"/>
-
-<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/DST_logo_250px.png" alt="DST Logo"/></p>
+https://gist.githubusercontent.com/<username>/<gist-id>/raw
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/raw/master/img/DST_logo_250px.png" alt="DST Logo"/></p>
 
 ## Overall objective 
 The overall objective of this toolkit is to provide a foundation for a “common language” between the data science and astronomy communities. The toolkit should help astronomers get a sense of the breadth of data science (as a field and in its applications) and see where their skills and knowledge fit into this wider view; and should help data scientists and those in need of data scientists (e.g. companies, NGOs)  see what astronomers can contribute.
@@ -14,7 +14,7 @@ More specifically, the toolkit will provide
 - A high quality teaching resources and assessments, for student- and self-assessment.
 - Instructors with easily accessible guidance and further information on how to teach effectively and inclusively.
 
-<center><a href="https://github.com/paultheastronomer/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials"><font size="8">Get Started</font></a></center>
+<p align="center"><a href="https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials"><font size="18">Get Started</font></a></p>
 
 ## Help contribute
 We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help.
