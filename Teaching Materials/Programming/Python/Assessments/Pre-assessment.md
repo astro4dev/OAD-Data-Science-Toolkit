@@ -26,7 +26,7 @@ d) list*5 produces an error because you can't multiply an int by a mixed array.
 
 ### Consider the following piece of code
 
-``` 
+```python 
 import numpy
 a = numpy.array([1,2,3,4,5])
 
