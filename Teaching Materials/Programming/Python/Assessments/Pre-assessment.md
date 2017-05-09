@@ -28,10 +28,12 @@ d) list*5 produces an error because you can't multiply an int by a mixed array.
 
 ```python 
 import numpy
+
 a = numpy.array([1,2,3,4,5])
 
 for i in range(len(a)):
 	b = i*a
+
 print(b)
 ```
 
@@ -55,3 +57,32 @@ a) Would not work. You need an array for multiplication to work.
 b) [1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5]  
 c) [ 4  8 12 16 20]  
 d) [1, 2, 3, 4, 5]  
+
+### Q7 - Give that a = [12,26,330,41,50]. What is a[:-1]?
+
+a) [50,41,330,26,12] 
+b) Not possible.  
+c) [12,26,330,41]  
+d) 50 
+
+### Q8 - What error occurs when you execute: apple = banana? 
+
+a) No error. Apple is asigned the variable banana.  
+b) ValueErrror  
+c) SyntaxError  
+d) NameError  
+e) SyntaxError  
+
+### Q9 - What data type is this object: a = [1,'hello',3.14,0,]
+
+a) list  
+b) array  
+c) dictionary  
+d) tuple  
+
+### Q10 - Which pieaces of code will result in: _This code will work_ ?
+
+a) "This code will",work  
+b) "This code will"+"work"  
+c) This code will work  
+d) "This+code+will+work"  
