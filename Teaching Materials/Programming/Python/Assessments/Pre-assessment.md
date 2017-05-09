@@ -4,13 +4,13 @@ This assessment is design to test a students prior knowledge of Python.
 
 ### Q1 - How would you define a variable, a, and set it's value equal to 5 in python?
 
-a) def variable(a):  
+a) ```def variable(a):```  
 b) ```a = 5```  
 c) ```a == 5```  
 d) ```a = 5;```  
 
 
-### Q2 - What is the output of print str[2:5] if str = 'Hello World!'?
+### Q2 - What is the output of ```print str[2:5]``` if ```str = 'Hello World!'```?
 
 a) ```ello W```  
 b) ```llo ```  
