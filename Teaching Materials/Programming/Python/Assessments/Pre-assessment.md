@@ -13,7 +13,7 @@ d) ```a = 5;```
 ### Q2 - What is the output of print str[2:5] if str = 'Hello World!'?
 
 a) ```ello W```  
-b) ```llo ``` 
+b) ```llo ```  
 c) ```llo Wo```  
 d) ```lo Wo```  
 
