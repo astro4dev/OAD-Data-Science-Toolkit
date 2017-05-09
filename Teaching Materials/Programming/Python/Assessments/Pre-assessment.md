@@ -13,16 +13,16 @@ c) a == 5
 d) a = 5;
 
 
-#### Q2 - What is the output of print str[2:5] if str = 'Hello World!'?
+### Q2 - What is the output of print str[2:5] if str = 'Hello World!'?
 
-a) ello W
+a) ello W 
 b) llo 
 c) llo Wo
 d) lo Wo
 
-##### Q3 - What is the output list*5 if list = ['a','b',12]
+### Q3 - What is the output list*5 if list = ['a','b',12]
 
-a) ['a', 'b', 12, 'a', 'b', 12, 'a', 'b', 12, 'a', 'b', 12, 'a', 'b', 12]
+a) ['a', 'b', 12, 'a', 'b', 12, 'a', 'b', 12, 'a', 'b', 12, 'a', 'b', 12]  
 b) ['aaaaa', 'bbbbb', 60]
 c) [['a','b',12],['a','b',12],['a','b',12],['a','b',12],['a','b',12]]
 d) list*5 produces an error because you can't multiply an int by a mixed array.
