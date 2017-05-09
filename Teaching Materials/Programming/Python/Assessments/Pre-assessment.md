@@ -1,6 +1,6 @@
 # Python Pre-Assessment
 
-This assessment is design to test a students prior knowledge of Python.
+This assessment is designed to test a students prior knowledge of Python.
 
 ### Q1 - How would you define a variable, a, and set it's value equal to 5 in python?
 
@@ -67,7 +67,7 @@ d) 50
 
 ### Q8 - What error occurs when you execute: apple = banana? 
 
-a) No error. Apple is asigned the variable banana.  
+a) No error. Apple is assigned the variable banana.  
 b) ValueErrror  
 c) SyntaxError  
 d) NameError  
@@ -80,7 +80,7 @@ b) array
 c) dictionary  
 d) tuple  
 
-### Q10 - Which pieaces of code will result in: _This code will work_ ?
+### Q10 - Which pieces of code will result in: _This code will work_ ?
 
 a) "This code will",work  
 b) "This code will"+"work"  
