@@ -19,7 +19,7 @@ Confirm the password.
 Now we launch MySQL
 
 ```sh
-user@machine:~$ mysql -uroot -p
+user@machine:~$ mysql -u root -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 43
