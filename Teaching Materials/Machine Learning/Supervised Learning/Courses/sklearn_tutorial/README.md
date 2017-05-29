@@ -1,6 +1,6 @@
 # Scikit-learn Tutorial
 
-This tutorial was written by *Jake VanderPlas* and reproduced here with permission. The original repository can be found [here](https://github.com/jakevdp/sklearn_tutorial).
+This tutorial was written by *Jake VanderPlas* and reproduced with his permission. The original repository can be found [here](https://github.com/jakevdp/sklearn_tutorial).
 
 *Author contact details:*
 
