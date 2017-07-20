@@ -40,7 +40,6 @@ For more information on the OAD including current projects and how you can contr
 
 <p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/OAD_logo.png" alt="OAD Logo" width="300"/></p>
 
-
 ## License
 <p><a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a></p>
 Licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPLv3</a>.
