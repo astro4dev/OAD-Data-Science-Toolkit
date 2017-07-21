@@ -13,4 +13,5 @@ Once the content has been uploaded to github it has to be added to the MySQL dat
 - Content Tables
 - Relational Tables
 
-
+### The content tables
+The content tables have one word names, e.g. _skills_.
