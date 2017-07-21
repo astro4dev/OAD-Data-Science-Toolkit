@@ -18,8 +18,13 @@ sudo apt-get install git
 There is also a GUI interface known as the
 <a href="https://desktop.github.com/" target="_blank">Desktop version</a> which is available for Windows and for Mac OSX.
 
-## Fork a respotisty
+## Fork a repository
 <a href="https://help.github.com/articles/fork-a-repo/" target="_blank">Instructions on GitHub</a>
+
+## Syncing a fork
+If you have previously forked the repository, but it is now 'out of date' you may wish to bring your fork up to date with the main repository.
+
+https://help.github.com/articles/syncing-a-fork/
 
 ## Making changes
 
@@ -34,7 +39,8 @@ git status
 ```
 Red coloured files means they have not been added. Green means they have.
 
-To push a file to your repository clone on github type:
+To push a file to your repository clone on github type in any directory (within the 
+OAD-Data-Science-Toolkit folder):
 ```sh
 git add [name_of_file]
 ```
@@ -51,4 +57,8 @@ git push
 
 ## Opening pull requests
 If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">pull request</a>.
+
+
+
+
 
