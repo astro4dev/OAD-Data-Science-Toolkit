@@ -22,9 +22,7 @@ There is also a GUI interface known as the
 <a href="https://help.github.com/articles/fork-a-repo/" target="_blank">Instructions on GitHub</a>
 
 ## Syncing a fork
-If you have previously forked the repository, but it is now 'out of date' you may wish to bring your fork up to date with the main repository.
-
-https://help.github.com/articles/syncing-a-fork/
+If you have previously forked the repository, but it is now 'out of date' you may wish to bring your fork up to date with the main repository. You can find instructions on how to sync a fork <a href="https://help.github.com/articles/syncing-a-fork/" target="_blank">here</a>.
 
 ## Making changes
 
