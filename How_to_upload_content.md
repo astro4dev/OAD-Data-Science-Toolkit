@@ -5,16 +5,18 @@ How to upload content
 
 ## Get a GitHub account
 
-It's required
+It's required if you want to submit content to the toolkit which is hosted on GitHub. Get an account <a href="https://github.com/" target="_blank">here</a>.
 
 ## Install git on your computer
+To use Git on the command line, you'll need to download, install, and configure Git on your computer.
+
 On Ubuntu
-'''sh
+```sh
 sudo apt-get install git
-'''
+```
 
-<a href="https://desktop.github.com/" target="_blank">Desktop version</a> for Windows and Mac OSX.
-
+There is also a GUI interface known as the
+<a href="https://desktop.github.com/" target="_blank">Desktop version</a> which is available for Windows and for Mac OSX.
 
 
 ## Fork a respotisty
@@ -22,6 +24,13 @@ sudo apt-get install git
 
 ## Opening pull requests
 If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">pull request</a>.
+
+## Practical
+
+Download all the latest changes to the repository
+```sh
+git pull
+```
 
 
 
