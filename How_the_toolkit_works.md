@@ -8,15 +8,15 @@ The toolkit content is stored on the github servers under the <a href="https://g
 
 ## Step 2 - Adding the content to the database
 
-Once the content has been uploaded to github it has to be added to the MySQL database. This is done by a member of the astro4dev data science working group. The database is composed of many tables which can be dividied into two types.
+Once the content has been uploaded to GitHub it has to be added to the MySQL database. This is done by a member of the astro4dev data science working group. The database is composed of many tables which can be dividied into two types.
 
-- Content Tables
-- Relational Tables
+- Content tables
+- Relational tables
 
 ### The content tables
-The content tables have one word names, e.g. _skills_ and contain information such as the title of the contribution and where to find it.
+The content tables have one word names, e.g. _skills_ and contain information such as the title of the contribution and the link to where it is located on GitHub.
 
 ### The connector tables
-These tabels are required to connect the content tables in the database. Connector tables all contain a double underscore '__' so they can easily be identified. They have been created so that new tables can easily be added later. Also, it drastically cuts down the size of each individual table (look up _relational databases_). If we wish to connect two content tables, such as _skills_ and _examples_ we have to create an entry in the connector table _skills__examples_. Each time a new entry is made on github a minimum of three tables have to be updated. Say an example has been added. For it to be properly added to the database, each table with _"example"_ in it's name has to be updated. Here is an example of how the tables are connected.
+These tabels are required to connect the content tables in the database. Connector tables all contain a double underscore '__' so they can easily be identified. They have been created so that new tables can easily be added later. Also, it drastically cuts down the size of each individual table (look up _relational databases_). If we wish to connect two content tables, such as _skills_ and _examples_ we have to create an entry in the connector table _skills__examples_. Each time a new piece of content is added to GitHub a *minimum of three* tables have to be updated. Say an example has been added. For it to be properly added to the database, each table with _"example"_ in it's name has to be updated. Here is an example of how the tables are connected.
 
 <p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/database_structure.png" alt="database structure"/></p>
