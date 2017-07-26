@@ -56,7 +56,5 @@ git push
 ## Opening pull requests
 If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">pull request</a>.
 
-
-
-
-
+## Making the content available on the toolkit website
+Once the content is on github, sombody from the OAD Data Science Working Group will add the content to the website making it searchable. See [here](How_the_toolkit_works.md) for more info.
