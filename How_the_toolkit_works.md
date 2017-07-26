@@ -16,7 +16,7 @@ Once the content has been uploaded to github it has to be added to the MySQL dat
 ### The content tables
 The content tables have one word names, e.g. _skills_ and contain information such as the title of the contribution and where to find it.
 
-## The connector tables
-These tabels are required to connect the content tables in the database. Connector tables all contain a double underscore '__' so they can easily be identified. If we wish to connect two content tables, such as _skills_ and _examples_ we have to create an entry in the connector table _skills__examples_.
+### The connector tables
+These tabels are required to connect the content tables in the database. Connector tables all contain a double underscore '__' so they can easily be identified. They have been created so that new tables can easily be added later. Also, it drastically cuts down the size of each individual table (look up _relational databases_). If we wish to connect two content tables, such as _skills_ and _examples_ we have to create an entry in the connector table _skills__examples_. Each time a new entry is made on github a minimum of three tables have to be updated. Say an example has been added. For it to be properly added to the database, each table with _"example"_ in it's name has to be updated. Here is an example of how the tables are connected.
 
-<p align="center"><img src="https://raw.githubusercontent.com/paultheastronomer/OAD-Data-Science-Toolkit/master/img/database_structure.png" alt="database structure"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/database_structure.png" alt="database structure"/></p>
