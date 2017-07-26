@@ -19,4 +19,4 @@ The content tables have one word names, e.g. _skills_ and contain information su
 ## The connector tables
 These tabels are required to connect the content tables in the database. Connector tables all contain a double underscore '__' so they can easily be identified. If we wish to connect two content tables, such as _skills_ and _examples_ we have to create an entry in the connector table _skills__examples_.
 
-<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/database_structure.png" alt="database structure"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/paultheastronomer/OAD-Data-Science-Toolkit/master/img/database_structure.png" alt="database structure"/></p>
