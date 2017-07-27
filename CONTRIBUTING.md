@@ -1,13 +1,13 @@
 Contributing to the Astronomy & Data Science Toolkit
 ===================
 
-#Teaching materials
+# Teaching materials
 If you have ever taught astronomy using data science techniques or you are a data scientist who has used astronomy examples to teach data science, please consider sharing your teaching materials. You can either directly contribute to github or send us the materials directly via email.
 
-#Assessments
+# Assessments
 Few Astronomy summer schools and extra-curricular programmes use any form of assessment. This deprives students of the opportunity to both experience and demonstrate their achievements; and doesn't allow the ability to show others that they achieved what they intended. The toolkit strives towards providing high quality pre- and post-assessments.
 
-#Coding and Content
+# Coding and Content
 This website has been created using a lot of different tools: HTML5, CSS3, PHP, MySQL, AJAX, jQuery, Shell, JavaScript and Python. If you have experience in any of these tools or perhaps would like to improve the content on this website please help contribute. The entire website can be found here.
 
 How to upload content
