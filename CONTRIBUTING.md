@@ -12,8 +12,6 @@ This website has been created using a lot of different tools: HTML5, CSS3, PHP, 
 
 # How to upload content
 
-<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/DST_logo_250px.png" alt="DST Logo"/></p>
-
 ## Get a GitHub account
 
 It's required if you want to submit content to the toolkit which is hosted on GitHub. Get an account <a href="https://github.com/" target="_blank">here</a>.
