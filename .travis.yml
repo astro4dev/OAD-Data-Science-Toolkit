@@ -10,6 +10,7 @@ before_install:
 install:
   - pip install jupyter_client
 script:
+  - echo "there are no tests yet."
 # run tests
 after_script:
 # post-processing, uploads, etc
