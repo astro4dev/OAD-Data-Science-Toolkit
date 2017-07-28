@@ -15,8 +15,6 @@ R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years 
 
 ## Simple Neural Network
 
-### Author: <a href="" target="_blank"></a>
-
 In this notebook we build a simple feed forward neural network with Keras. We will start with a two layer neural network for simplicity.
 
 [Simple Neural Network Notebook](SNN/Simple_Neural_Network.ipynb)
