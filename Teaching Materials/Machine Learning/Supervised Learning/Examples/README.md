@@ -2,7 +2,7 @@
 
 ## Predicting Pulsar Candidates
 
-### Author: <a href="https://github.com/scienceguyrob" target="_blank">Dr. Rob Lyon</a>
+### Made with contributions by: <a href="https://github.com/scienceguyrob" target="_blank">Dr. Rob Lyon</a>
 
 In this notebook we will look at building machine learning models to predict Pulsar Candidates.
 
