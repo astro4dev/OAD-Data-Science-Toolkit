@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/86835335.svg)](https://zenodo.org/badge/latestdoi/86835335)
+
 OAD Data Science Toolkit
 ===================
 
