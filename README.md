@@ -15,7 +15,7 @@ More specifically, the toolkit will provide
 <p align="center"><font size="18"><a href="https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials">Get Started</a></font></p>
 
 ## Help contribute
-We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out <a href="https://guides.github.com/activities/forking/" target="_blank">this guide</a> or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help.
+We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out [this guide](CONTRIBUTING.md) or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help. Contributors are to adhere to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributors to the github repository
 
