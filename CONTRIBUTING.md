@@ -1,16 +1,27 @@
 Contributing to the Astronomy & Data Science Toolkit
 ===================
 
+The toolkit is in its infancy and for it to be a success we need people to help us create and share content. We are always looking for people keen on contributing. The contribution process is a three step process:
+
+1. Content is added to our [repository on GitHub](https://github.com/astro4dev/OAD-Data-Science-Toolkit) or it is sent to us directly via email to info@astro4dev.org.
+2. The content is verified by the community or by the OAD Data Science Working Group. You can either create a pull request, or we can create one for you if you are not familiar with using GitHub.
+3. Once the content is on GitHub somebody from the OAD Data Science Working Group will add the new entry to our database so that it is available on the [toolkit search page](https://datascience.astro4dev.org/toolkit.php).
+
+# Ways of contributing.
+Below are a list of ways to contribute. These are meant to be taken as suggestions.
+
 ## Teaching materials
-If you have ever taught astronomy using data science techniques or you are a data scientist who has used astronomy examples to teach data science, please consider sharing your teaching materials. You can either directly contribute to github or send us the materials directly via email.
+If you have ever taught astronomy using data science techniques or you are a data scientist who has used astronomy examples to teach data science, please consider sharing your teaching materials. You can either directly contribute to GitHub or send us the materials directly via email to info@astro4dev.org.
 
 ## Assessments
-Few Astronomy summer schools and extra-curricular programmes use any form of assessment. This deprives students of the opportunity to both experience and demonstrate their achievements; and doesn't allow the ability to show others that they achieved what they intended. The toolkit strives towards providing high quality pre- and post-assessments.
+Few Astronomy summer schools and extra-curricular programmes use any form of assessment. This deprives students of the opportunity to both experience and demonstrate their achievements; and doesn't allow the ability to show others that they achieved what they intended. The toolkit strives towards providing high quality pre- and post-assessments. Please share any assessments you have with us.
 
 ## Coding and Content
-This website has been created using a lot of different tools: HTML5, CSS3, PHP, MySQL, AJAX, jQuery, Shell, JavaScript and Python. If you have experience in any of these tools or perhaps would like to improve the content on this website please help contribute. The entire website can be found here.
+This website has been created using a lot of different tools: HTML5, CSS3, PHP, MySQL, AJAX, jQuery, Shell, JavaScript and Python. If you have experience in any of these tools or perhaps would like to improve the content on this website please help contribute. The files for the entire website can be found [here](https://github.com/astro4dev/toolkit_website). Current suggestions / issues can be found [here](https://github.com/astro4dev/toolkit_website/issues).
 
-# How to upload content
+----------
+
+# How to upload content via GitHub
 
 ## Get a GitHub account
 
