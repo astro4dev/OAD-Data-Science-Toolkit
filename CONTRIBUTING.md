@@ -16,6 +16,9 @@ If you have ever taught astronomy using data science techniques or you are a dat
 ## Assessments
 Few Astronomy summer schools and extra-curricular programmes use any form of assessment. This deprives students of the opportunity to both experience and demonstrate their achievements; and doesn't allow the ability to show others that they achieved what they intended. The toolkit strives towards providing high quality pre- and post-assessments. Please share any assessments you have with us.
 
+## Translations
+In our attempt at making the toolkit accessible to as many people as possible, we have decided to support multiple languages. To translate the website itself, fork the [website repository](https://github.com/astro4dev/toolkit_website) and change the text to the language you wish to translate too. More on how to do translations [here](https://github.com/astro4dev/toolkit_website).
+
 ## Coding and Content
 This website has been created using a lot of different tools: HTML5, CSS3, PHP, MySQL, AJAX, jQuery, Shell, JavaScript and Python. If you have experience in any of these tools or perhaps would like to improve the content on this website please help contribute. The files for the entire website can be found [here](https://github.com/astro4dev/toolkit_website). Current suggestions / issues can be found [here](https://github.com/astro4dev/toolkit_website/issues).
 
