@@ -23,4 +23,4 @@ These tabels are required to connect the content tables in the database. Connect
 
 ## Step 3 - New content appears on the website
 
-This step happens without user intervention. Once the actual content is uploaded (Step 1) and the database has been updated (Step 2), the <a href="https://datascience.astro4dev.org/toolkit.php" web interface to the toolkit </a> will automatically reflect the new content.
+This step happens without user intervention. Once the actual content is uploaded (Step 1) and the database has been updated (Step 2), the <a href="https://datascience.astro4dev.org/toolkit.php">web interface to the toolkit </a> will automatically reflect the new content.
