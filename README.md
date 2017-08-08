@@ -17,13 +17,13 @@ More specifically, the toolkit will provide
 ## Help contribute
 We are looking for contributors who are willing to share their teaching materials. In particular, we are looking for teaching materials which use astronomical examples to teach data science concepts. Simply fork the repository, add your content and create a pull request. If you have material, but don't know how to contribute your work on github, please feel free to check out [this guide](CONTRIBUTING.md) or contact <a href="https://www.paulanthonywilson.com/contact/" target="_blank">Dr. Paul A. Wilson</a> for help. Contributors are to adhere to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Contributors to the github repository
+## Contributors to the GitHub repository
 
 - <a href="https://www.paulanthonywilson.com/" target="_blank">Dr. Paul A. Wilson</a>, <a href="http://www.astro4dev.org/" target="_blank">OAD, SA</a> & <a href="https://www.universiteitleiden.nl/en/science/astronomy" target="_blank">Leiden Observatory, Netherlands</a>
 - <a href="http://vanessa.saao.ac.za" target="_blank">Dr. Vanessa McBride</a>, <a href="http://www.astro4dev.org/" target="_blank">OAD, SA</a>
 - <a href="https://brucellino.github.io/" target="_blank">Dr. Bruce Becker</a>, <a href="https://www.csir.co.za/meraka" target="_blank">Meraka Institute, CSIR, SA</a>
 - <a href="https://github.com/ArunAniyan" target="_blank">Dr. Arun Aniyan</a>, <a href="http://www.ska.ac.za/" target="_blank">SKA South Africa</a>
-- <a href="http://webusers.astro.umn.edu/%7Ebrown/" target="_blank">Dr. Shea Brown</a>, <a href="https://uiowa.edu/" target="_blank">University of Iowa, USA</a>
+- <a href="http://astro.physics.uiowa.edu/~sbrown/" target="_blank">Dr. Shea Brown</a>, <a href="https://uiowa.edu/" target="_blank">University of Iowa, USA</a>
 - <a href="https://github.com/sfebruary" target="_blank">Dr. Sean February</a>, <a href="https://www.chpc.ac.za/" target="_blank">CHPC, SA</a>
 - <a href="https://github.com/pylablanche" target="_blank">Dr. Pierre-Yves Lablanche</a>, <a href="https://www.aims.ac.za/" target="_blank">AIMS, SA</a>
 - <a href="https://github.com/scienceguyrob" target="_blank">Dr. Rob Lyon</a>, <a href="http://www.jodrellbank.manchester.ac.uk/people/staff/profile/?ea=robert.lyon" target="_blank">University of Manchester, UK</a>

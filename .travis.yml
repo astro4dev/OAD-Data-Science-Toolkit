@@ -1,0 +1,20 @@
+# Travis configuration file, for testing the development environment.
+# Minimal tests are written here - contributions should pass CI before being reviewed
+language: python
+python:
+- '2.7'
+- pypy
+before_install:
+# Set up OS-level dependencies, if necessary
+
+install:
+  - pip install jupyter_client
+  - pip install -r Teaching\ Materials/Machine\ Learning/Unsupervised\ Learning/Examples/GMM/requirements.txt
+script:
+  - 
+
+# run tests
+after_script:
+# post-processing, uploads, etc
+notifications:
+# who wants the good news !?
