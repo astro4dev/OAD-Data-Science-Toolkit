@@ -1,6 +1,7 @@
 Introduction to Machine learning (with Andreas Mueller)
 ========================================================
 
+The originial repository for this course can be found [here](https://github.com/amueller/ml-training-intro). Content is posted here with persmission by Andreas Mueller.
 
 Instructor
 -----------
