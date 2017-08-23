@@ -19,7 +19,3 @@ History and Atlas of the Universe, including an overview of the various fields o
 > **Part 3: Introduction to Machine Learning**
 
 Overview of Machine Learning and AI, including supervised, unsupervised and reinforcement learning. Deep learning will be introduced, as will more advanced topics at a superficial level. *Coming!*
-
-> **Part 4: Projects**
-
-*Coming!*
