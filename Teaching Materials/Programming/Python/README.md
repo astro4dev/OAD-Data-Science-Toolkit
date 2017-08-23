@@ -25,7 +25,19 @@ Below are a list of books which you may find useful whilst learning to program i
   <tr>
     <td><a href="http://greenteapress.com/wp/think-python/" target="_blank"><img src="http://greenteapress.com/thinkpython/think_python_comp2.medium.png" alt="Think Python" width="200"/></a></td>
     <td><b>Think Python</b><br>Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
-	<br>The book is available for download <a href="http://greenteapress.com/wp/think-python/"" target="_blank">here</a>.
+	<br>The book is available for download <a href="http://greenteapress.com/wp/think-python/" target="_blank">here</a>.
+    </td>
+  </tr>
+    <tr>
+    <td><a href="http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf" target="_blank"><img src="http://covers.oreillystatic.com/images/0636920053194/cat.gif" alt="A Whirlwind Tour of Python " width="200"/></a></td>
+    <td><b>A Whirlwind Tour of Python</b><br>To tap into the power of Python's open data science stack—including NumPy, Pandas, Matplotlib, Scikit-learn, and other tools—you first need to understand the syntax, semantics, and patterns of the Python language. This report provides a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language.
+  <br>The book is available for download <a href="http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf" target="_blank">here</a>.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank"><img src="https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png" alt="Python Data Science Handbook" width="200"/></a></td>
+    <td><b>Python Data Science Handbook</b><br>The book introduces the core libraries essential for working with data in Python: particularly IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related packages. Familiarity with Python as a language is assumed; if you need a quick introduction to the language itself, see the free companion project, <a href="https://github.com/jakevdp/WhirlwindTourOfPython" target="_blank">A Whirlwind Tour of Python</a>: it's a fast-paced introduction to the Python language aimed at researchers and scientists.
+  <br>The book is available for download <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank">here</a>.
     </td>
   </tr>
 </table> 
