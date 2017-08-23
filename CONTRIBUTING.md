@@ -1,6 +1,8 @@
 Contributing to the Astronomy & Data Science Toolkit
 ===================
 
+<p align="center"><img src="https://raw.githubusercontent.com/astro4dev/OAD-Data-Science-Toolkit/master/img/DST_logo_250px.png" alt="DST Logo"/></p>
+
 The toolkit is in its infancy and for it to be a success we need people to help us create and share content. We are always looking for people keen on contributing. The contribution process is a three step process:
 
 1. Content is added to our [repository on GitHub](https://github.com/astro4dev/OAD-Data-Science-Toolkit) or it is sent to us directly via email to info@astro4dev.org.
