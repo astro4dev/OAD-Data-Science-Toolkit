@@ -29,7 +29,10 @@ We are looking for contributors who are willing to share their teaching material
 - <a href="https://github.com/scienceguyrob" target="_blank">Dr. Rob Lyon</a>, <a href="http://www.jodrellbank.manchester.ac.uk/people/staff/profile/?ea=robert.lyon" target="_blank">University of Manchester, UK</a>
 - <a href="http://www.manchester.ac.uk/research/anna.scaife/" target="_blank">Dr. Anna Scaife</a>, <a href="http://www.manchester.ac.uk/research/anna.scaife/" target="_blank">University of Manchester, UK</a>
 
+## How the toolkit works
 
+The toolkit itself is hosted on GitHub. To add your materials to the toolkit follow [this guide](CONTRIBUTING.md
+). To understand more about how the toolkit works, take a look [here](How_the_toolkit_works.md).
 
 ## About the Office of Astronomy for Development
 
