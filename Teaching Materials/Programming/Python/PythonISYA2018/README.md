@@ -2,8 +2,6 @@
 Basic Python at ISYA 2018 at Socorro (Colombia).
 Instructor: [Jaime E. Forero-Romero](http://wwwprof.uniandes.edu.co/~je.forero/) (Los Andes University, Colombia)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AndeanROAD/PythonISYA/master?urlpath=lab)
-
 
 ## Lecture 1. Basic Python I
 
