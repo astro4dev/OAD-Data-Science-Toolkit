@@ -28,7 +28,7 @@ We are looking for contributors who are willing to share their teaching material
 - <a href="https://github.com/sfebruary" target="_blank">Dr. Sean February</a>, <a href="https://www.chpc.ac.za/" target="_blank">CHPC, SA</a>
 - <a href="https://github.com/pylablanche" target="_blank">Dr. Pierre-Yves Lablanche</a>, <a href="https://www.aims.ac.za/" target="_blank">AIMS, SA</a>
 - <a href="https://github.com/scienceguyrob" target="_blank">Dr. Rob Lyon</a>, <a href="http://www.jodrellbank.manchester.ac.uk/people/staff/profile/?ea=robert.lyon" target="_blank">University of Manchester, UK</a>
-- <a href="http://www.manchester.ac.uk/research/anna.scaife/" target="_blank">Dr. Anna Scaife</a>, <a href="http://www.manchester.ac.uk/research/anna.scaife/" target="_blank">University of Manchester, UK</a>
+- <a href="http://www.manchester.ac.uk/research/anna.scaife/" target="_blank">Prof. Anna Scaife</a>, <a href="http://www.manchester.ac.uk/research/anna.scaife/" target="_blank">University of Manchester, UK</a>
 - <a href="https://github.com/saint-germain" target="_blank">Dr. German Chaparro-Molano</a>, <a href="https://ecci.edu.co/es/Bogota/siamo-486" target="_blank">Universidad ECCI, Colombia</a>
 - <a href="https://github.com/forero" target="_blank">Prof. Jaime Forero-Romero</a>, Universidad de los Andes, Colombia
 
