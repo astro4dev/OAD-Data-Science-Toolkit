@@ -3,4 +3,4 @@ jupyter
 notebook
 matplotlib==2.0.2
 astropy==2.0.1
-Pillow==9.0.0
+Pillow==9.0.1
